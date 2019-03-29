@@ -1,0 +1,29 @@
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg
+  class="burger is-closed"
+  id="js-burger"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 40 25"
+  width="40"
+  height="25"
+>
+  <path
+    class="patty_0"
+    d="M0,0 L40,0 L40,5 L5,0 L0,0 Z"
+    fill="#ff0000"
+  />
+  <!-- <rect
+    class="patty_1"
+    width="40"
+    height="5"
+    y="10"
+  />
+  <rect
+    class="patty_2"
+    width="40"
+    height="5"
+    y="20"
+  /> -->
+</svg>

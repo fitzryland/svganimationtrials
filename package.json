@@ -1,0 +1,20 @@
+{
+  "name": "svgani",
+  "version": "1.0.0",
+  "description": "Testing our some ideas on svg animatino",
+  "main": "index.js",
+  "author": "Fitz!",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "normalize.css": "^7.0.0",
+    "snapsvg": "^0.5.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.2.3",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-postcss": "^0.9.0",
+    "grunt-sass": "^2.0.0"
+  }
+}

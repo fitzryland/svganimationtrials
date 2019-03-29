@@ -1,0 +1,6 @@
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg class="burger is-closed" xmlns="http://www.w3.org/2000/svg" width="40" height="25">
+  <path class="patty_0" d="M0 0h40v5H0z"/>
+  <path class="patty_1" d="M0 10h40v5H0z"/>
+  <path class="patty_2" d="M0 20h40v5H0z"/>
+</svg>
